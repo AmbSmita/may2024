@@ -25,8 +25,8 @@ public class Arithmetic {
 	public static void main(String[] args) 
 	{
 		Arithmetic obj=new Arithmetic();
-		int sumresult=obj.add(10, 2);
-		int subresult=obj.sub(10, 2);
+		int sumresult=obj.add(10, 3);
+		int subresult=obj.sub(10, 3);
 		obj.multi(sumresult, subresult);
 	}
 }
