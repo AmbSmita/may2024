@@ -15,7 +15,7 @@ public class assignment9thJune3
 	System.out.println("Enter the value of x2 ");
 	int x2=m.nextInt();
 		
-	System.out.println("Enter the value of x3 ");
+	System.out.println(" Enter the value of x3 ");
 	int x3=m.nextInt();
 		
 	System.out.println("Enter the value of x4 ");
